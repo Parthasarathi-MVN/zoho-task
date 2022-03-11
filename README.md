@@ -27,3 +27,5 @@ Note: You only need to create a Schema in the MySQL server, the tables will be a
 
 Note: MySQL server should be running for data access and retrival.
 	
+- The backend Java code is present in /src/main/java/com/zoho/task
+- The frontend code is present in /src/main/resources/templates
