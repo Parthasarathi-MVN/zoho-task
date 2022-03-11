@@ -26,6 +26,11 @@ Note: You only need to create a Schema in the MySQL server, the tables will be a
 	In my case, the username is "root" and password is "parthu123".
 
 Note: MySQL server should be running for data access and retrival.
+
+Step 3: Once you have configured the Database and assuming the project is fully loaded in the IDE (might take few minutes to download the dependencies) you can run the application by clicking on **green triangle "RUN"** button provided by the IDE. Alternatively, you can also run the application by executing "ZohotaskApplication.java" which contains ```main()```function. 
+
+Step 4: Once the application is running, open your preferred browser and type in the address bar ```http://localhost:8080/```. This will take you to the index page of the application.
+Note: Make sure the port number ```8080``` is free and is not being used by any other application, in that case the application would throw an error.
 	
 - The backend Java code is present in /src/main/java/com/zoho/task
 - The frontend code is present in /src/main/resources/templates
