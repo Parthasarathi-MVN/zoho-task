@@ -12,7 +12,7 @@ Steps to run this application:
 
 Step 1: Extract the zip and open the folder(zohotask) as a project in an IDE(SpringToolSuite/IntelliJ)
 
-Step 2: Once you open the project in the IDE, go to /src/main/resources and edit application.properties to configure it with respect to your Database.
+Step 2: Once you open the project in the IDE, go to /src/main/resources and edit "application.properties" file to configure it with respect to your Database.
 
 - In this application I have used MySQL as my relational database, so my JDBC url would be ```jdbc:mysql://localhost:3306/zoho```. Where "3306" is the default port on which MySQL runs. "zoho" is the name of the schema in the MySQL server.
 
