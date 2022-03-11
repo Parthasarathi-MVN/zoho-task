@@ -8,7 +8,7 @@ Note: These are the steps assuming you have Java 8 installed on your machine.
 
 Note: Please connect to the internet before running the application to enrich User Experience as it is using Bootstrap Framework in the frontend using CDN
 
-Steps to run this application:
+**Steps to run this application:**
 
 **Step 1**: Extract the zip and open the folder(zohotask) as a project in an IDE(SpringToolSuite/IntelliJ)
 
@@ -30,6 +30,7 @@ Note: MySQL server should be running for data access and retrival.
 **Step 3**: Once you have configured the Database and assuming the project is fully loaded in the IDE (might take few minutes to download the dependencies) you can run the application by clicking on **green triangle "RUN"** button provided by the IDE. Alternatively, you can also run the application by executing "ZohotaskApplication.java" which contains ```main()```function. 
 
 **Step 4**: Once the application is running, open your preferred browser and type in the address bar ```http://localhost:8080/```. This will take you to the index page of the application.
+
 Note: Make sure the port number ```8080``` is free and is not being used by any other application, in that case the application would throw an error.
 	
 - The backend Java code is present in /src/main/java/com/zoho/task
