@@ -31,7 +31,7 @@ Note: MySQL server should be running for data access and retrival.
 
 **Step 4**: Once the application is running, open your preferred browser and type in the address bar ```http://localhost:8080/```. This will take you to the index page of the application.
 
-Note: Make sure the port number ```8080``` is free and is not being used by any other application, in that case the application would throw an error.
+Note: Make sure the port number ```8080``` is free and is not being used by any other application(default port of Spring is 8080), in that case the application would throw an error.
 	
 - The backend Java code is present in /src/main/java/com/zoho/task
 - The frontend code is present in /src/main/resources/templates
