@@ -6,7 +6,7 @@ This is FullStack Web Application built using:
 
 Note: These are the steps assuming you have Java 8 installed on your machine.
 
-Note: Please connect to the internet before running the application to enrich User Experience as it is using Bootstrap Framework in the frontend using CDN
+Note: Please connect to the internet before running the application to enrich User Experience as it is using Bootstrap Framework in the frontend and also internet connection is required for the application to download its dependencies.
 
 **Steps to run this application:**
 
